@@ -1,3 +1,4 @@
+#Primero debemos instalar networkx para poder realizar el ejercicio
 import networkx as nx
 
 # Definir la red de transporte como un grafo
