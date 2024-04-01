@@ -1,4 +1,5 @@
 #Primero debemos instalar networkx para poder realizar el ejercicio
+#Para estu usamos el pip install networkx, en nuestra consola
 import networkx as nx
 
 # Definir la red de transporte como un grafo
